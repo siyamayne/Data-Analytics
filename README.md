@@ -1,5 +1,3 @@
-Data Analysis Portfolio
-
 Welcome to my Data Analysis Portfolio.
 
 This repo contains projects focused on extracting insights from data, identifying trends, measuring performance, and supporting business decision-making through analytics. The projects found here are that of my own with data sourced from variable data sources & they are purely for upskilling & always challenging myself.
@@ -15,6 +13,7 @@ This repository demonstrates my ability to analyze data, uncover insights, and s
 
 I am a Data Analyst with 3 years experience in:
 
+- AI Workflow Automation
 - Data Analysis
 - Data Quality Assessment
 - Statistical Analysis
@@ -32,6 +31,7 @@ My goal is to transform raw data into meaningful insights that drive business va
 ### Analytics
 - SQL
 - Python (Pandas, NumPy)
+- SSIS / SSAS
 - Statistics
 
 
@@ -50,33 +50,36 @@ My goal is to transform raw data into meaningful insights that drive business va
 ## 📂 Repository Structure
 
 ```text
-├── Customer Analytics
-├── Financial Analytics
-├── Risk Analytics
-├── Data Quality Analysis
-├── Dashboard Projects
-├── Statistical Analysis
-└── Case Studies
+Data Analytics/
+│
+├── README.md
+├── 00_github_basics/
+├── 01_call_center_dashboard/
+│   ├── README.md
+│   ├── docs/
+│   ├── sql/
+│   ├── powerbi/
+│   └── assets/
+├── 02_sales_performance_dashboard/
+│   ├── README.md
+│   ├── docs/
+│   ├── sql/
+│   ├── powerbi/
+│   └── assets/
+└── 03_portfolio_templates/
 ```
+
 
 ---
 
 ## 📈 Featured Projects
 
-### Data Quality Assessment
-Analyzing data completeness, accuracy, consistency, and validity using SQL and Python.
+### Call Center Dashboard
+Analyzing data Kaggle sourced data to analyze data and derive insights from the data in order to answer or solve complex business problems.
 
-### Tax Compliance Analytics
-Identifying potential non-compliance through taxpayer return behavior analysis.
+### Sales Performance Dashboard
+Basic analysis that focuses on giving the stakeholders insights into the top selling products, low selling products & their unit prices vs selling prices.
 
-### Financial Crime Analytics
-Developing analytical approaches to detect suspicious activity patterns and anomalies.
-
-### Customer Behavior Analysis
-Exploring customer trends and segmentation to support business decision-making.
-
-### Business Intelligence Reporting
-Building dashboards and KPI reporting solutions using Power BI.
 
 ---
 
@@ -94,7 +97,7 @@ Building dashboards and KPI reporting solutions using Power BI.
 ---
 
 ## 🎯 Current Learning Focus
-
+- AI Automation
 - Predictive Analytics
 - Advanced Statistics
 - AI for Data Analytics
@@ -103,11 +106,8 @@ Building dashboards and KPI reporting solutions using Power BI.
 
 ## 📫 Connect
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: https://za.linkedin.com/in/siyabonga-maseko-23aa95204?trk=people-guest_people_search-card
 
-GitHub: [Your GitHub]
-
-Email: [Your Email]
-
+Email: smaseko20@yahoo.com
 ---
 
